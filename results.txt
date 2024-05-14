@@ -1,0 +1,14 @@
+#Logistic regression
+Accuracy : 73.42%
+confusion matrix : [[1799  335],[ 795 1322]]
+Mean square error : 0.2658
+
+#SVC(support vector classifier)
+Accuracy : 87.16%
+confusion matrix : [[1968  166], [ 380 1737]]
+Mean square error : 0.1284
+
+#KNN(K-nearest neighbors)
+Accuracy : 86.54%
+confusion matrix : [[1972  162],[ 410 1707]]
+Mean square error : 0.1345
